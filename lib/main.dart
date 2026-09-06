@@ -96,10 +96,11 @@ Future<void> main() async {
         await Firebase.initializeApp(
           name: 'project',
           options: const FirebaseOptions(
-            apiKey: "AIzaSyCFGqSEiWMItei_AFIUgdM53PWrvyGmjFY",
-            projectId: "drivevalley-fdb7f",
-            messagingSenderId: "76471554747",
-            appId: "1:76471554747:android:3aa5d58a094e2a036d0f9e"
+            apiKey: "AIzaSyAMSKPQkW0Eic6a2d6y-9PHC6t9fDe_f_k",
+            projectId: "akt-wear",
+            messagingSenderId: "775574758023",
+            appId: "1:775574758023:android:96de8b4a115c95c7d78e22",
+            storageBucket: "akt-wear.appspot.com",
           )
         );
       } finally {

@@ -1,4 +1,4 @@
-package com.sixamtech.sixvalley
+package com.pt.aktwear
 
 import io.flutter.embedding.android.FlutterActivity
 

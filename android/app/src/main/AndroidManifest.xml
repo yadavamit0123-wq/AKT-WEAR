@@ -52,7 +52,7 @@
     </queries>
 
     <application
-        android:label="6Valley"
+        android:label="AKT Wear"
         android:name="${applicationName}"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="false"
@@ -62,7 +62,7 @@
         android:allowBackup="false"
         android:fullBackupContent="false">
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR_MAP_KEY_HERE" />
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyA_usa-2matJnaEuxFvNag8qhXL51w4vJM" />
 
         <activity
             android:name=".MainActivity"
@@ -102,7 +102,7 @@
 
                 <data android:scheme="https"/>
                 <data android:scheme="http"/>
-                <data android:host="YOUR_DOMAIN_HERE"/>
+                <data android:host="aktwear.com"/>
 
                 <data android:pathPattern="/" />
                 <data android:pathPattern="" />

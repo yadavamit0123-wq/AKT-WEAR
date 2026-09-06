@@ -3,15 +3,15 @@ import 'package:flutter_sixvalley_ecommerce/common/enums/local_caches_type_enum.
   import 'package:flutter_sixvalley_ecommerce/utill/images.dart';
 
   class AppConstants {
-  static const String appName = '6valley';
-  static const String slogan = 'E-Commerce Marketplace';
-  static const String appVersion = '16.5'; ///Flutter SDK 3.47.0
+  static const String appName = 'AKT Wear';
+  static const String slogan = 'Fashion & Lifestyle';
+  static const String appVersion = '2.0.0'; ///Flutter SDK 3.47.0
   static const bool demo = false;
 
   static const int imageQuality = 100;
   static const LocalCachesTypeEnum cachesType = LocalCachesTypeEnum.all;
 
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String baseUrl = 'https://aktwear.com';
 
   static const String googleServerClientId = 'client_id here';
   static const String userId = 'userId';
