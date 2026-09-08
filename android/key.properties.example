@@ -2,3 +2,5 @@ storePassword=YOUR_KEYSTORE_PASSWORD
 keyPassword=YOUR_KEY_PASSWORD
 keyAlias=YOUR_KEY_ALIAS
 storeFile=../upload-keystore.jks
+# Note: storeFile path is relative to android/app/
+# Place upload-keystore.jks in the android/ folder
