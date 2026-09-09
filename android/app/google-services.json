@@ -13,7 +13,20 @@
           "package_name": "com.pt.aktwear"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "775574758023-rbsb0chvqd5mtrth8fiu4fk40jvbn4d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pt.aktwear",
+            "certificate_hash": "4dfd8bcd3d2d0957d024eb3eb0e6f1c94e28381b"
+          }
+        },
+        {
+          "client_id": "775574758023-8arbjnr94v851bbfft15otr5nne6et3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAMSKPQkW0Eic6a2d6y-9PHC6t9fDe_f_k"
@@ -21,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775574758023-8arbjnr94v851bbfft15otr5nne6et3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
@@ -32,7 +50,20 @@
           "package_name": "com.pt.aktweardelivery"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "775574758023-5jinr9o8hnq8mhl58801u0fmcpdohbjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pt.aktweardelivery",
+            "certificate_hash": "4dfd8bcd3d2d0957d024eb3eb0e6f1c94e28381b"
+          }
+        },
+        {
+          "client_id": "775574758023-8arbjnr94v851bbfft15otr5nne6et3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAMSKPQkW0Eic6a2d6y-9PHC6t9fDe_f_k"
@@ -40,7 +71,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775574758023-8arbjnr94v851bbfft15otr5nne6et3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
@@ -51,7 +87,20 @@
           "package_name": "com.pt.aktwearseller"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "775574758023-8o8tugo3dkuu1al3e3prk5fa7kg5kem6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pt.aktwearseller",
+            "certificate_hash": "4dfd8bcd3d2d0957d024eb3eb0e6f1c94e28381b"
+          }
+        },
+        {
+          "client_id": "775574758023-8arbjnr94v851bbfft15otr5nne6et3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAMSKPQkW0Eic6a2d6y-9PHC6t9fDe_f_k"
@@ -59,7 +108,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775574758023-8arbjnr94v851bbfft15otr5nne6et3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
